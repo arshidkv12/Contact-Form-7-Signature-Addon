@@ -113,6 +113,8 @@ class Wpcf7_Signature_Public {
 		$height = $tag->get_rows_option( '200' );
 
 		$atts['tabindex'] = $tag->get_option( 'tabindex', 'int', true );
+		$atts['class'] = $tag->get_class_option( $class );
+
 
 		if ( $tag->has_option( 'readonly' ) )
 			$atts['readonly'] = 'readonly';
