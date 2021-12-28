@@ -12,7 +12,7 @@
  * Description: Add a signature field type to the popular Contact Form 7 plugin.
  * Author: Breizhtorm
  * Author URI: http://www.breizhtorm.fr
- * Version: 4.2.2
+ * Version: 4.2.3
  * Text Domain: contact-form-7-signature-addon
  * Domain Path: /languages
 */
